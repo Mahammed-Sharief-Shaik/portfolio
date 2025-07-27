@@ -184,7 +184,7 @@ export default function ContactSection() {
           transition={{ delay: 0.6, duration: 0.8 }}
           className="text-center mt-16 pt-8 border-t border-slate-700/50"
         >
-          <p className="text-slate-400">© 2024 Mahammed Sharief Shaik. Built with Next.js and Tailwind CSS.</p>
+          <p className="text-slate-400">Made with 🤍 by <a className="text-sky-400" href="https://www.linkedin.com/in/mahammed-sharief-shaik/">Sharief</a></p>
         </motion.div>
       </div>
     </section>
